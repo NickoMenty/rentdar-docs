@@ -2,11 +2,11 @@
 sidebar_position: 2
 title: Behind the Curtains
 ---
-import InTag from '@site/src/components/InText-tag';
+<!-- import InTag from '@site/src/components/InText-tag'; -->
 
 # Behind the Curtains
 
-Our NFT Solidity contract might seem similar to other NFTs on the blockchain, <InTag color="#ed8e2f">BUT</InTag> its true value and innovation lie in the scripts that run behind the Solidity minting function.
+Our NFT Solidity contract might seem similar to other NFTs on the blockchain, BUT its true value and innovation lie in the scripts that run behind the Solidity minting function.
 
 ## Key Components of Our Technology
 

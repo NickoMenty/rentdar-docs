@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Introduction
 ---
 
-import InTag from '@site/src/components/InText-tag';
+<!-- import InTag from '@site/src/components/InText-tag'; -->
 
 # RentDar Revolutionizing Apartment Rentals in Dubai
 
@@ -19,7 +19,7 @@ Additionally, the traditional system is burdened by bureaucratic red tape. Tenan
 
 ## Our Solution
 
-<InTag color="#ed8e2f">RentDar</InTag> was created to address these challenges head-on by integrating blockchain technology into the rental process. By doing so, we aim to streamline the entire experience, ensuring that renting an apartment in Dubai is not only safe and secure but also efficient and hassle-free.
+RentDar was created to address these challenges head-on by integrating blockchain technology into the rental process. By doing so, we aim to streamline the entire experience, ensuring that renting an apartment in Dubai is not only safe and secure but also efficient and hassle-free.
 
 ### Blockchain-Backed Rental Documents
 
@@ -27,7 +27,7 @@ At the core of RentDar is our innovative use of blockchain technology. When a te
 
 1. **Scam Prevention:** By utilizing blockchain, we ensure that every rental agreement is verified and authenticated. This significantly reduces the risk of fraud, as the legitimacy of both the property and the landlord can be confirmed at any time.
 
-2. **Eliminating Bureaucracy:** Traditional rental processes involve copious amounts of paperwork and approvals. With <InTag color="#ed8e2f">RentDar</InTag>, we mitigate these bureaucratic hurdles by digitizing and automating many of these steps. The rental document, once created, is hashed and encoded, ensuring that all sensitive information is stored securely and efficiently.
+2. **Eliminating Bureaucracy:** Traditional rental processes involve copious amounts of paperwork and approvals. With RentDar, we mitigate these bureaucratic hurdles by digitizing and automating many of these steps. The rental document, once created, is hashed and encoded, ensuring that all sensitive information is stored securely and efficiently.
 
 3. **Secure and Transparent Transactions:** All transactions, including payments, are recorded on the blockchain, providing a transparent and immutable ledger. This transparency not only instills confidence in both tenants and landlords but also simplifies the payment process, ensuring that all parties are on the same page.
 
@@ -41,6 +41,6 @@ RentDar is more than just a technological upgrade; it’s a complete reimagining
 
 ## Conclusion
 
-<InTag color="#ed8e2f">RentDar</InTag> is poised to transform the rental market in Dubai by addressing the long-standing issues of security, bureaucracy, and inefficiency. With the integration of blockchain technology, we are paving the way for a future where renting an apartment is as simple as it is secure. Our vision is clear: to create a world where tenants and landlords alike can engage in rental agreements with complete confidence, free from the burdens of traditional processes.
+RentDar is poised to transform the rental market in Dubai by addressing the long-standing issues of security, bureaucracy, and inefficiency. With the integration of blockchain technology, we are paving the way for a future where renting an apartment is as simple as it is secure. Our vision is clear: to create a world where tenants and landlords alike can engage in rental agreements with complete confidence, free from the burdens of traditional processes.
 
-As we continue to develop and expand <InTag color="#ed8e2f">RentDar</InTag>, we invite you to join us on this exciting journey. Whether you're a tenant looking for your next home or a landlord seeking a reliable tenant, RentDar is here to revolutionize your rental experience. Welcome to the future of apartment rentals. Welcome to RentDar.
+As we continue to develop and expand RentDar, we invite you to join us on this exciting journey. Whether you're a tenant looking for your next home or a landlord seeking a reliable tenant, RentDar is here to revolutionize your rental experience. Welcome to the future of apartment rentals. Welcome to RentDar.
