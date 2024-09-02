@@ -3,8 +3,6 @@ sidebar_position: 1
 title: Introduction
 ---
 
-<!-- import InTag from '@site/src/components/InText-tag'; -->
-
 # RentDar Revolutionizing Apartment Rentals in Dubai
 
 Let's discover **Rentdar in less than 5 minutes**.
@@ -13,7 +11,7 @@ In a rapidly evolving digital age, the real estate market still grapples with tr
 
 ## The Problem
 
-The process of renting an apartment in Dubai is far from straightforward. Prospective tenants are often required to navigate through multiple layers of verification to ensure the legitimacy of the property and the credibility of the landlord. This usually involves extensive background checks, meetings with brokers, and a thorough review of documents, all of which can be time-consuming and stressful. 
+The process of renting an apartment in Dubai is far from straightforward. Prospective tenants are often required to navigate through multiple layers of verification to ensure the legitimacy of the property and the credibility of the landlord. This usually involves extensive background checks, meetings with brokers, and a thorough review of documents, all of which can be time-consuming and stressful.
 
 Additionally, the traditional system is burdened by bureaucratic red tape. Tenants must complete a multitude of forms, submit various documents, and often wait for extended periods for approvals. This inefficiency is exacerbated by the need to manage payment schedules, which can be complex and prone to human error. For many, the process becomes a source of anxiety, detracting from what should be an exciting time — moving into a new home.
 
